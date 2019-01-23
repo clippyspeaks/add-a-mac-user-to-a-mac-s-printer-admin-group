@@ -1,0 +1,1 @@
+sudo dseditgroup -o edit -n /Local/Default -a username -t user _lpadmin
